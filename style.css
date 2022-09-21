@@ -1,0 +1,31 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_of_objects, #start{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    background-color: linear-gradient();
+}
+canvas{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 20px;
+    margin-top: 120px;
+    background-color: red;
+
+}
+.CR_footer{
+    position: fixed;
+    color:  #bdbdbd;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
